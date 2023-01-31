@@ -1,0 +1,116 @@
+header, footer{ 
+
+    color:            white; 
+    background-color: #312C32;
+    margin:           0em 4em 0.5em 4em;
+} 
+
+h1, h2, h3, nav, footer{
+
+    font-family: "Trebuchet MS", "Lucida Grande", Tahoma, sans-serif;
+
+}
+
+h1 {
+    margin: 1.5em;
+}
+
+h2{
+    margin: 0.75em
+}
+
+h3{
+    margin: 1.125em;
+}
+
+nav{
+    margin: 1.125em;
+}
+
+body{
+
+    font-family: Georgia, Cambria, Times New Roman, serif;
+    font-size: 100%;
+    background-color: #98dafc;
+
+}
+#main {
+    background-color: white;
+    margin: 0em 4em 0.5em 4em;
+}
+
+a:link{
+    color: #98dafc;
+    font-weight: bold;
+}
+
+a:visited{
+    color: #daad86;
+}
+
+a:hover{
+    background-color: #FFFFCC ;
+}
+
+#crystals {
+    border-style: solid ;
+    border-width: 1px; ;
+    border-color: black;
+    padding: 0.25em;
+    width: 98%;
+
+}
+
+/* social media icons*/
+
+#pics {
+    background-image: url("../images/gray-gradient.png");
+    border-radius: 5px;
+    margin:1%;
+}
+
+.sec1 {
+    display: inline-block;
+    font-size: 70%;
+    margin: auto;
+}
+.sec2 {
+    display: inline-block;
+    margin: auto;
+}
+.sec3 {
+    display: inline-block;
+    margin: auto;
+}
+
+/* dotted and solid lines for the byline class items*/
+
+.byline {
+    border-top: 1px solid black;
+}
+#Reviews div {
+    margin:1%
+
+}
+#Reviews div p:nth-child(2) {
+    border-bottom: 1px dotted black;
+
+}
+
+.nav {
+
+    display: inline-block;
+
+}
+figure{
+    margin: 1%;
+}
+#RelatedPhotos{
+    margin:1%;
+
+}
+#Description p {
+    margin:1%
+
+}
+
